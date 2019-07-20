@@ -1,3 +1,4 @@
+package com.CollectionFrameWork;
 import java.util.HashMap;
 
 public class HashM {
@@ -9,6 +10,8 @@ public static void main(String[] args) {
 	
 	for(Integer key:smap.keySet())
 		System.out.println(key+" "+smap.get(key));
+	//for fetching value using key
+	System.out.print("Value having key 1 is :"+smap.get(1));
 	
 	
 }

@@ -1,3 +1,4 @@
+package com.CollectionFrameWork;
 import java.util.*;
 public class InputStringHashSet {
 	public static void main(String[] args) {
