@@ -7,7 +7,8 @@ public class InputStringHashSet {
 		uniqueName.add("Arjun");
 		uniqueName.add("Sita");
 		for(String name:uniqueName)
-		{
+	
+	{
 			System.out.println(name);
 		}
 	}

@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	uniqueRolls.add(2);
 	uniqueRolls.add(1);
 	
+	
 	for(Integer value:uniqueRolls)
 		System.out.println(value);
 	
